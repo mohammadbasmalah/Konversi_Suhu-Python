@@ -1,0 +1,9 @@
+#Konversi Suhu
+Celcius=float(input("Masukan Suhu = "))
+Reamur=4/5*Celcius
+Farenheit=9/5*Celcius+32
+Kelvin=273+Celcius
+print("Celcius =",Celcius)
+print("Reamur =",Reamur)
+print("Farenheit =",Farenheit)
+print("Kelvin =",Kelvin)
